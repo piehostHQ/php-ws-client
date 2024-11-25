@@ -1,4 +1,4 @@
-#WebSocket PHP Client Example
+# WebSocket PHP Client Example
 
 This project demonstrates how to use the PieSocket WebSocket service in PHP to send and receive messages in real time.
 
