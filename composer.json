@@ -1,0 +1,14 @@
+{
+    "name": "yourname/websocket-project",
+    "description": "A simple WebSocket server and client using Ratchet and textalk/websocket",
+    "require": {
+        "textalk/websocket": "^1.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "MyApp\\": "app"
+        }
+    },
+    "minimum-stability": "stable",
+    "license": "MIT"
+}
