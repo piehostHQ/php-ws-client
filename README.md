@@ -26,7 +26,7 @@ Before you start, ensure you have the following:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/piesocket-php-client-example.git
+   git clone https://github.com/piehostHQ/php-ws-client.git
    cd piesocket-php-client-example
    
 Install dependencies using Composer:
